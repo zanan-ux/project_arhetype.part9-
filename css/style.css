@@ -1,0 +1,19 @@
+
+.inf{
+    float: right;
+    color: aqua;
+    font-size: 40px;
+}
+h2{
+    color: yellow;
+    margin-bottom: 20px;
+    font-size: 50px;
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-color: lightslategray;
+}
+img{
+    float: left;
+}
